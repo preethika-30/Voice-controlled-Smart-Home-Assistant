@@ -1,0 +1,7 @@
+{
+  "living_room_light": {"type": "light", "room": "living room", "state": "off"},
+  "bedroom_light": {"type": "light", "room": "bedroom", "state": "off"},
+  "living_room_fan": {"type": "fan", "room": "living room", "state": "off", "speed": 0},
+  "bedroom_fan": {"type": "fan", "room": "bedroom", "state": "off", "speed": 0},
+  "air_conditioner": {"type": "ac", "room": "bedroom", "state": "off", "temperature": 24}
+}
